@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{50C48AA3-465F-9EB6-F604-A4905ED5B2C7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "DeploymentChange",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
